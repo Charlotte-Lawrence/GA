@@ -58,7 +58,7 @@ Resulting Path:
 
 ![image](https://github.com/Charlotte-Lawrence/Travelling-Salesman-GA/assets/122492109/5db78465-6809-4ed7-9903-215129c48353)
 
-Fitness Evolution over Generations:
+Fitness Evolution over Generations: (Where a lower fitness value is preffered as it indicates distance of the route)
 
 ![image](https://github.com/Charlotte-Lawrence/Travelling-Salesman-GA/assets/122492109/f4019874-1832-4d44-aac6-5d30f62eda5b)
 
